@@ -1,4 +1,4 @@
-# PySmash
+## super slash smash bros
 A Python clone of Super Smash Bros playable over LAN
 
 ## Installation
@@ -37,3 +37,5 @@ Smash attacks are more powerful than tilt attacks, but they have a longer cooldo
 For more info, see our website [here](https://olincollege.github.io/pysmash)
 
 
+## End game:
+win 500 times
